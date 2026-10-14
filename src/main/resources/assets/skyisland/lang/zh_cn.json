@@ -1,0 +1,14 @@
+{
+  "world_preset.skyisland.sky_island": "空岛",
+  "skyisland.gui.title": "方块选择",
+  "skyisland.gui.refresh": "刷新",
+  "skyisland.gui.confirm": "确认",
+  "skyisland.gui.hint": "点击刷新以展示下一种方块",
+  "skyisland.gui.hint.confirm": "再次点击确认，将填充所选的方块",
+  "skyisland.option.island": "空岛世界",
+  "skyisland.option.island.tooltip": "出生在虚空中一个 5x5 的草方块平台上。",
+  "skyisland.msg.summary": "第 %s 天：选择了 %s，跳过了 %s",
+  "skyisland.msg.finale": "空岛已经到达世界底部。第 %s 天：生成了没有末影之眼的末地传送门框架。",
+  "skyisland.msg.your_turn": "第 %s 天：轮到你来选择方块了。",
+  "skyisland.msg.waiting": "第 %s 天：%s 正在选择方块。"
+}

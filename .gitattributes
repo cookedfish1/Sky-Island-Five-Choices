@@ -1,0 +1,16 @@
+# Normalise line endings on commit and check out with LF everywhere, so that the
+# repository behaves the same on Windows, Linux and macOS.
+* text=auto eol=lf
+
+# Windows only scripts keep their CRLF endings.
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Binaries must never be touched by the line ending conversion.
+*.jar binary
+*.png binary
+*.zip binary
+
+# Generated files, they always generate with LF
+src/generated/**/.cache/cache text eol=lf
+src/generated/**/*.json text eol=lf

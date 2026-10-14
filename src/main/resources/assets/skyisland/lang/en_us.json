@@ -1,0 +1,14 @@
+{
+  "world_preset.skyisland.sky_island": "Sky Island",
+  "skyisland.gui.title": "Block Selection",
+  "skyisland.gui.refresh": "Refresh",
+  "skyisland.gui.confirm": "Confirm",
+  "skyisland.gui.hint": "Click Refresh to reveal the next block",
+  "skyisland.gui.hint.confirm": "Click Confirm again to fill the chosen block",
+  "skyisland.option.island": "Sky Island World",
+  "skyisland.option.island.tooltip": "Start on a 5x5 grass platform floating in the void.",
+  "skyisland.msg.summary": "Day %s: chose %s, skipped %s",
+  "skyisland.msg.finale": "The island reached the bottom of the world. Day %s: built the empty End portal frames.",
+  "skyisland.msg.your_turn": "Day %s: it is your turn to choose a block.",
+  "skyisland.msg.waiting": "Day %s: %s is choosing a block."
+}
